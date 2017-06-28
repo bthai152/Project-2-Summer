@@ -1,3 +1,4 @@
+
 nav#h0 ul {
 			  position: fixed;
 				bottom: 0;
@@ -8,7 +9,7 @@ nav#h0 ul {
 }
 nav#h0 ul li {
 			  float: right;
-				margin: 0px;
+				margin: 0 15px;
 
 }
 
@@ -43,7 +44,7 @@ nav#h1 ul {
 				 padding: 0;
 				 overflow: hidden;
 				 width: 750px;
-				 margin: auto;
+				 margin: 0 auto;
 }
 
 nav#h1 ul li {float: left;
@@ -56,18 +57,30 @@ nav#h1 ul li a {
 				 text-align: center;
 				 width: 150px;
 				 padding: 20px;
-				 font-size: 20px;
+				 font-size; 20px;
 				 color: #fff;
 				 text-decoration: none;
-				 font-weight:bold;
+				 font=weight: bold;
 				 text-transform: uppercase;
 				 font-family: Arial, sans-serif;
+				 
+				
 }
 
 nav#h1 ul li a:hover {
-	background-color: #ccc;
-	color: #000;
+				 background-color: #ccc;
+				 color: #000;
+
 }
+
+
+
+
+				 
+					
+
+				 
+
 
 
 
