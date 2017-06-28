@@ -8,7 +8,7 @@ nav#h0 ul {
 }
 nav#h0 ul li {
 			  float: right;
-				margin: 0 15px;
+				margin: 0px;
 
 }
 
@@ -43,7 +43,7 @@ nav#h1 ul {
 				 padding: 0;
 				 overflow: hidden;
 				 width: 750px;
-				 margin: 0 auto;
+				 margin: auto;
 }
 
 nav#h1 ul li {float: left;
