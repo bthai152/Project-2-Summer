@@ -10,7 +10,6 @@ font-family : Courier New, Lucida Console, Monospace;
 color:green;
 }
 
-}
 h1.centerh1 {
 text-align : center;
 display : block;
@@ -24,7 +23,7 @@ font-weight : normal;
 margin : auto;
 width : 50%;
 padding : 20px;
-float: center;
+position: center;
 }
 .image {
 display : block;
@@ -36,8 +35,7 @@ nav#h0 ul {
     list-style-type: none;
 		float: right;
 		right: -18px;
-    margin: auto%;
-    padding: auto;
+    margin: auto;
     width: 190px;
    
 }
@@ -51,9 +49,8 @@ nav#h0 li a {
 
 nav#h1 ul {
     list-style-type: none;
-		float: center;
-    margin: auto%;
-    padding: auto;
+		position: center;
+    margin:auto;
     width: 200px;
    
 }
