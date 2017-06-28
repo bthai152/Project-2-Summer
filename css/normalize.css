@@ -9,17 +9,21 @@ body.f1 {
 	color:rgb(75,0,0);
 }
 body.f2 {
+<<<<<<< HEAD
 	font-family:Abel, Times, serif;
+=======
+	font-family:Times New Roman, Times, serif;
+>>>>>>> ba06c9ca5df2dd86bbf332bd98fe86243cc78fd5
 }
 body.f3 {
 	font-family:Katibeh, Lucida Console, Monospace;
 	color:rgb(255,255,0);
 }
 body.p1 {
-	background-image: url("../Picture/Sky.jpg");
+	background-image: url("../Picture/sky.jpg");
 }
 body.p2 {
-	background-image: url("../Picture/Sky3.jpg");
+	background-image: url("../Picture/sky3.jpg");
 }
 body.p3 {
 	background-color: white;
